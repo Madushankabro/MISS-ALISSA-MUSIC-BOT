@@ -1,7 +1,7 @@
-
+# GLOBAL MUSIC BOT
 
 <p align="center">
-  <img src="https://telegra.ph/file/cda084c19e69069f5e0ec.jpg">
+  <img src="https://telegra.ph/file/0e7677008983876155a94.jpg">
 </p>
 
 # How To Host
