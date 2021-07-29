@@ -113,4 +113,9 @@ async def help(client: Client, message: Message):
                 ]
             ]
         )
-    )    
+    )   
+@Client.on_message(
+    filters.command("help")
+    & filters.group
+    & ~ filters.edited
+)
