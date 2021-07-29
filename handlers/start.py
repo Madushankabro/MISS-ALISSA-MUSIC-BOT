@@ -76,7 +76,7 @@ async def start(client: Client, message: Message):
 
 @Client.on_message(
     filters.command("help")
-    & filters.group
+    & filters.private
     & ~ filters.edited
 )
 async def help(client: Client, message: Message):
