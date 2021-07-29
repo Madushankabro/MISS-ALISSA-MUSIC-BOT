@@ -1,12 +1,12 @@
 # MISS ALISSA MUSIC BOT
 
 <p align="center">
-  <img src="https://telegra.ph/file/0e7677008983876155a94.jpg">
+  <img src="https://telegra.ph/file/94d4a53ee4d25ec108106.jpg">
 </p>
 
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/prince301102/PrinceVCMusicbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Madushankabro/MISS-ALISSA-MUSIC-BOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 Get STRING_NAME from here:
 
@@ -57,7 +57,7 @@ Get STRING_NAME from here:
 
 ## Deployment
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/prince301102/TelegramVCMusicPlayer"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Madushankabro/MISS-ALISSA-MUSIC-BOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### Config
 
