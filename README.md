@@ -1,4 +1,4 @@
-# GLOBAL MUSIC BOT
+# MISS ALISSA MUSIC BOT
 
 <p align="center">
   <img src="https://telegra.ph/file/0e7677008983876155a94.jpg">
@@ -10,14 +10,14 @@ The easiest way to deploy this Bot
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/PyrogramStringBot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowblue)](https://t.me/epu_stringsessionegneratorbot)
 
 ### Mandatory Vars.
 
 - Some Of The Mandatory Vars Are :-
-   - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
-   - `API_HASH` :  Give API_HASH of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
-   - `STRING_NAME` :  Make a string session from [here](https://t.me/PyrogramStringBot)
+   - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from [here](https://my.telegram.org)
+   - `API_HASH` :  Give API_HASH of your Alternate Telegram Account. also get from [here](https://my.telegram.org)
+   - `STRING_NAME` :  Make a string session from [here](t.me/epu_stringsessionegneratorbot)
    - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
@@ -90,4 +90,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 ### GNU Affero General Public License v3.0
 
 [Read more](http://www.gnu.org/licenses/#AGPL)
+
+### Credits
+- [Original Repo](https://github.com/prince301102/PrinceVCMusicbot)
 
