@@ -13,7 +13,7 @@ async def start_(client: Client, message: Message):
    await message.reply_text(
         f""" <b>Hi {message.from_user.first_name}!
 
-⚜️ I am E_PUSTHAKALAYA Music Player, an open-source bot that lets you play music in your Telegram groups.
+⚜️ I am 𝙈𝙄𝙎𝙎 𝘼𝙇𝙄𝙎𝙎𝘼 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏, an open-source bot that lets you play music in your Telegram groups.
 Maintained by @kasu_bro 🇱🇰
 
 
@@ -25,18 +25,18 @@ Maintained by @kasu_bro 🇱🇰
             [
                 [
                     InlineKeyboardButton(
-                        "Bot Commands", url="https://t.me/epusthakalayabots_chat/6",
+                        "⚜️ Add Alissa Music Bot to Your Group ⚜️", url="t.me/MissAlissaMisicBot?startgroup=true",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/epusthakalayabots_chat"
+                        "👥 Group 👥", url="https://t.me/epusthakalayabots_chat"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/epusthakalaya_bots"
+                        "📣 Channel 📣", url="https://t.me/epusthakalaya_bots"
                     ),
                     InlineKeyboardButton(
-                        "😍 Dev", url="https://t.me/kasu_bro"
+                        "⛑ Dev ⛑", url="https://t.me/kasu_bro"
                     )
                 ],
             ]
@@ -54,7 +54,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/epusthakalaya_bots"
+                        "📣 Channel 📣", url="https://t.me/epusthakalaya_bots"
                     )
                 ],    
                 [    
@@ -103,7 +103,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/epusthakalaya_bots"
+                        "📣 Channel 📣", url="https://t.me/epusthakalaya_bots"
                     )
                 ]
             ]
