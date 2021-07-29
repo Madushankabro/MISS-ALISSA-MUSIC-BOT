@@ -1,9 +1,9 @@
 {
-    "name": "PRINCE_MUSIC_BOT",
-    "logo": "https://telegra.ph/file/07c49a0be5f7a9c7752a1.jpg",
+    "name": "MISS_ALISSA_MUSIC_BOT",
+    "logo": "https://telegra.ph/file/0f8501a220f1e15896bde.jpg",
     "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
     "keywords": ["music", "voicechat", "telegram"],
-    "repository": "https://github.com/prince301102/PrinceVCMusicPlayer",
+    "repository": "https://github.com/Madushankabro/MISS-ALISSA-MUSIC-BOT",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
